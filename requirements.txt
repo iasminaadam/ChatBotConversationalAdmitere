@@ -1,0 +1,26 @@
+# Web Scraping & Content Extraction
+trafilatura
+beautifulsoup4
+requests
+lxml
+
+# Core AI & LLM Framework
+langchain
+langchain-core
+langchain-community
+langchain-classic
+
+# Model Connectors
+langchain-ollama
+langchain-huggingface
+
+# Vector Database & Embeddings
+chromadb
+langchain-chroma
+sentence-transformers
+
+# PDF & Document Processing
+pypdf
+
+# Utilities
+pydantic
