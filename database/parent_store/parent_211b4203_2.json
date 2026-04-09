@@ -1,0 +1,15 @@
+{
+  "parent_id": "parent_211b4203_2",
+  "source": "https://ac.tuiasi.ro/en/studies/masters-degree/sdtw-dswt-master-distributed-systems-and-web-technologies",
+  "tags": [
+    "Automatică și Calculatoare (AC)",
+    "master",
+    "studies",
+    "english"
+  ],
+  "headers": {
+    "H2": "Studied discipline",
+    "H3": "Year II (from 2020)"
+  },
+  "page_content": "| Semester I | Semester II |\n|---|\n| Multi-agent systems | Multidisciplinary project |\n| High-performance computing | Develop Master’s Thesis |\n| GPU Programming | Research and Practice (sem. 4) |\n| Research and Practice (sem. 3) | |\n| Design paradigm for distributed applications/Web Security | |\n| Introduction to Quantum Computing/Cloud Computing 2 | |"
+}

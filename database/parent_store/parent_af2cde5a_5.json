@@ -1,0 +1,13 @@
+{
+  "parent_id": "parent_af2cde5a_5",
+  "source": "https://ieeia.tuiasi.ro/admitere/admitere-doctorat",
+  "tags": [
+    "Inginerie Electrică, Energetică și Informatică Aplicată (IEEIA)",
+    "doctorat"
+  ],
+  "headers": {
+    "H2": "Ofertă educațională",
+    "H3": "Formula de calcul a mediei de admitere la studiile universitare de doctorat"
+  },
+  "page_content": "MA=0.5 X M Interviu +0.3 X M ex. Licenţă + 0.2 X M ex. Disertatie  \nunde:  \n- MA = media de admitere – nota colocviu admitere doctorat\n- M Interviu = media acordată la interviu\n- M ex. licenţă = media la examenul de diploma/licenţă\n- M ex. disertatie = media la examenul de disertatie"
+}

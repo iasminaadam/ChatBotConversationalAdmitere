@@ -1,0 +1,14 @@
+{
+  "parent_id": "parent_0c0f127c_1",
+  "source": "https://ac.tuiasi.ro/en/studies/masters-degree/ssc-master-cybersecurity",
+  "tags": [
+    "Automatică și Calculatoare (AC)",
+    "master",
+    "studies",
+    "english"
+  ],
+  "headers": {
+    "H2": "The content of the master’s program"
+  },
+  "page_content": "The content that will be studied in the master’s program in Cybersecurity includes, among others, the following concepts and techniques:  \n- The specific definition of the concepts that characterize cybersecurity;\n- Identification of vulnerabilities, risks, and cybersecurity threats at the organizational level;\n- Managing cybersecurity events;\n- Data protection using modern encryption technologies;\n- Protection of information using electronic signatures and PKI infrastructures;\n- Study and analysis of security protocols;\n- Application of methods for securing computer networks;\n- Applying methods for securing systems and applications;\n- Securing databases;\n- Securing multimedia systems;\n- The study of the systems and protocols used in electronic payment systems.\n- Information security management;\n- Collection and investigation of evidence in the field of cybercrime (forensics);\n- The conduct of cybersecurity exercises;\n- The application of specific technologies to ensure operational continuity;  \nThe research topics will cover areas such as operating system security, mobile device security, Internet of Things systems, distributed systems, communication protocols, software-defined networking, and virtualization solutions."
+}

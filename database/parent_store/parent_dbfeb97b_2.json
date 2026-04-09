@@ -1,0 +1,15 @@
+{
+  "parent_id": "parent_dbfeb97b_2",
+  "source": "https://ac.tuiasi.ro/en/studies/masters-degree/ec-master-embedded-computers",
+  "tags": [
+    "Automatică și Calculatoare (AC)",
+    "master",
+    "studies",
+    "english"
+  ],
+  "headers": {
+    "H2": "Studied discipline",
+    "H3": "Year II (from 2020)"
+  },
+  "page_content": "| Semester I | Semester II |\n|---|\n| Embedded computer networks | Multidisciplinary project |\n| Designing human-computer interaction systems | Development of Master’s Thesis |\n| Research and Practice (sem. 3) | Research and Practice (sem. 4) |\n| Dedicated computing systems | |\n| The security of mobile devices | |\n| Design and verification of SoC (System on Chip) | |"
+}

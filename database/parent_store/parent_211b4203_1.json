@@ -1,0 +1,15 @@
+{
+  "parent_id": "parent_211b4203_1",
+  "source": "https://ac.tuiasi.ro/en/studies/masters-degree/sdtw-dswt-master-distributed-systems-and-web-technologies",
+  "tags": [
+    "Automatică și Calculatoare (AC)",
+    "master",
+    "studies",
+    "english"
+  ],
+  "headers": {
+    "H2": "Studied discipline",
+    "H3": "Year I"
+  },
+  "page_content": "| Semester I | Semester II |\n|---|\n| Fundamentals of Distributed Processing | Performanțele și fiabilitatea sistemelor complexe |\n| Web languages and technologies | Cloud Computing |\n| Cybersecurity | Etică și integritate |\n| Research and Practice (sem. 1) | Research and Practice (sem. 2) |\n| Network service management | Big Data Techniques |\n| Artificial vision |"
+}

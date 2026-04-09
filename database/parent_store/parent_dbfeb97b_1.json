@@ -1,0 +1,15 @@
+{
+  "parent_id": "parent_dbfeb97b_1",
+  "source": "https://ac.tuiasi.ro/en/studies/masters-degree/ec-master-embedded-computers",
+  "tags": [
+    "Automatică și Calculatoare (AC)",
+    "master",
+    "studies",
+    "english"
+  ],
+  "headers": {
+    "H2": "Studied discipline",
+    "H3": "Year I"
+  },
+  "page_content": "| Semester I | **Semester I**I |\n|---|\n| Embedded computers | Internet of Things |\n| Digital signal processing techniques | Artificial vision |\n| Cybersecurity | Reliability and operational safety |\n| Research and Practice (sem. 1) | Self-testable digital circuits |\n| Advanced machine learning techniques | Research and Practice (sem. 2) |\n| GPU Programming | Ethics and integrity |\n| Real-time operating systems |"
+}
